@@ -197,3 +197,62 @@ For more information on available methods and their parameters, please refer to 
 ---
 
 *Note: This to-do list provides a comprehensive overview of tasks that can enhance the project's functionality, security, and maintainability. Prioritize tasks based on project requirements and user needs.*
+
+
+# Contribution Guidelines
+
+Thank you for considering contributing to this project! We welcome contributions from the community to make this project better. Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
+
+## How Can I Contribute?
+
+### Reporting Bugs
+
+If you encounter a bug, please help us out by following these guidelines:
+
+1. **Search for Existing Issues:** Before reporting a new issue, please search existing issues to see if the problem has already been reported.
+
+2. **Provide Details:** When submitting an issue, be as descriptive as possible. Include information about the operating system, Python version, and steps to reproduce the bug.
+
+3. **Code of Conduct:** Please be respectful and considerate when posting issues. Follow the project's [Code of Conduct](CODE_OF_CONDUCT.md).
+
+### Suggesting Enhancements
+
+Your suggestions are valuable to us. If you have an idea for an enhancement, follow these steps:
+
+1. **Search for Existing Suggestions:** Check if your enhancement idea has been suggested before. If it has, you can comment on the existing issue to provide additional input.
+
+2. **Provide Context:** Describe your enhancement idea thoroughly. Explain the problem you are trying to solve and how your suggestion would improve the project.
+
+3. **Implementation:** If you can, provide examples or code snippets to demonstrate how your enhancement might be implemented.
+
+### Pull Requests
+
+We welcome contributions from the community! If you want to contribute code, follow these steps:
+
+1. **Fork the Repository:** Fork the repository to your GitHub account and clone it to your local machine.
+
+2. **Create a Branch:** Create a new branch for your feature or bug fix. Use a descriptive name for your branch.
+
+3. **Write Code:** Make your changes, write tests if necessary, and ensure the existing tests pass.
+
+4. **Test Locally:** Test your changes locally to make sure they work as expected.
+
+5. **Documentation:** If your changes affect user documentation, please update the documentation accordingly.
+
+6. **Commit and Push:** Commit your changes and push your branch to your fork on GitHub.
+
+7. **Pull Request:** Open a pull request (PR) to the `main` branch of the original repository. Provide a clear description of your changes and why they are beneficial.
+
+8. **Code Review:** Your PR will be reviewed, and feedback may be provided. Be responsive to feedback and be ready to make changes if necessary.
+
+9. **Merging:** Once your changes are approved, they will be merged into the main branch.
+
+### Code Style
+
+Follow the existing code style and structure of the project. If you're not sure about something, feel free to ask for guidance.
+
+### Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
+Thank you for your contribution! 🎉
